@@ -1,56 +1,21 @@
-# Cloud Computing — Course Repository
+# Cloud Security — Course Repository
 
-This repository hosts all academic materials and activities for the **Cloud Computing** course.
+This repository contains materials and activities for the Cloud Security course.
 
----
-
-## 📘 Contents
-
+## Contents
 - Syllabus
-- Unit-wise notes
-- Lab guides and exercises
+- Unit notes
+- Lab guides
 - Assignments
 - Quiz bank
-- Mini-project templates
-- Student submission references
-- Learning resources
+- Mini projects
+- Security case studies
 
----
+## Submission Policy
+All labs and projects must be submitted as GitHub repository links only.
+ZIP and email submissions are not accepted.
 
-## 📌 Student Submission Policy
-
-- All lab work and projects must be submitted as **GitHub repository links**
-- ZIP files, screenshots, and email attachments will **not** be evaluated
-- Each submission must include proper file names and documentation
-
----
-
-## 🔄 Weekly Workflow
-
-- Lecture notes are uploaded unit-wise
-- Labs are published with step-by-step guides
-- Quizzes are conducted through Google Classroom
-- Projects are reviewed through GitHub repositories
-
----
-
-## 🛠 Tools Used in This Course
-
-- GitHub — project storage and version control  
-- Google Classroom — quizzes and announcements  
-- NotebookLM — summary and question generation support  
-
----
-
-## 📂 Repository Usage (Students Must Follow)
-
-1. Fork this repository
-2. Create a folder using your name inside `student-submissions`
-3. Upload your lab/project files there
-4. Share your forked repository link in Google Classroom
-
----
-
-## 📁 Folder Structure
-
-See repository folders for organized course materials and submission areas.
+## Tools Used
+- GitHub — submissions and version control
+- Google Classroom — quizzes and announcements
+- NotebookLM — summaries and question generation
